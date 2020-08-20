@@ -8,5 +8,3 @@ silicon wafers
 bunny suit
 brendan eich, netscape 
 10 days
-
-bla
